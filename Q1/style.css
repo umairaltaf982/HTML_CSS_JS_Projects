@@ -1,0 +1,162 @@
+body {
+    background-image: url("background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: right;
+    transition: all 0.5s ease;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    
+}
+
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.shopping{
+    width: 43%;
+    transition: all 0.5s ease;
+}
+
+.shopping-heading{
+    text-align: center;
+    color: rgb(192, 207, 221);
+}
+
+.shopping-elements {
+    width: 70%;
+    height: 80vh;
+    border-radius: 20px;
+    margin-left: 70px;
+    border: 2px solid green;
+    display: grid;
+    grid-template-columns: 1fr;
+    padding: 20px;
+    overflow: scroll;
+    place-items: center;
+    box-shadow:inset 0px -130px 50px 0px rgba(0, 0, 0, 0.582);
+}
+
+.shopping-card {
+    width: 80%;
+    height: 60vh;
+    display: grid;
+    place-items: center;
+    margin-top: 40px;
+    border-radius: 20px;
+
+    transform-style: preserve-3d;
+    transition: all 0.5s ease;
+}
+
+.shopping-card:hover{
+    transform: rotateY(180deg);
+    transition: 1s;
+}
+
+.card-front{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(14, 129, 58);
+    border-radius: 20px;
+    backface-visibility: hidden;
+    display: flex;
+    flex-direction: column;
+
+}
+.product-details > h2{
+    color: aliceblue;
+    padding: 15px 10px 10px 15px;
+}
+
+.product-img{
+    width: 100%;
+    height: 80%;
+    border-radius: 20px 20px 0 0;
+}
+
+.product-name{
+    padding-top: 10px;
+    text-align: center;
+    float: left;
+}
+
+.price{
+    padding-top: 10px;
+    text-align: center;
+    float: right;
+}
+
+.card-back{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.091);
+    border: 2px solid grey; 
+    border-radius: 20px;
+    backface-visibility: hidden;
+    transform: rotateY(180deg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h3{
+    text-align: center;
+    color: aliceblue;
+    padding: 20px;
+    font-size: x-large;
+}
+
+button{
+    padding: 15px 35px;
+    border: 2px solid silver;
+    border-radius: 20px;
+    font-size: medium;
+    background-color: rgb(14, 129, 58);
+    color: aliceblue;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+button:hover{
+    background-color: rgb(10, 99, 44);
+    transition: 0.5s;
+}
+
+button > img{
+    width: 20px;
+    margin: 0px 0px -4px 4px;
+}
+
+#dark-mode-toggle {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 10px 15px;
+    font-size: 18px;
+    background-color: #222;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+#dark-mode-toggle:hover {
+    background-color: #444;
+}
+
+.dark-mode {
+    justify-content: left;
+}
+
+.move-left {
+    margin-left: 30px;
+}
