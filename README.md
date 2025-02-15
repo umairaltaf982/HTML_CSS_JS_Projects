@@ -14,6 +14,9 @@ Design and implement a visually unique product card using only CSS and JavaScrip
 ### Bonus:
 * Add a "Buy Now" button that logs the selected product's name to the console when clicked.
 * Implement a dark mode toggle for the product cards.
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/3ccb0b0e-89de-4046-955f-2ea82d8ac2da" />
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/8eca5bfb-91f8-44f3-ad6c-876f3d0acf81" />
+
 
 
 
@@ -43,6 +46,9 @@ implementation should use arrays, map(), reduce(), event delegation, and DOM man
 * Search & Filter to find tasks by name or priority.
 * Dark Mode toggle.
 
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/fb1483d3-9caf-472f-bbed-5aadb3c52200" />
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/fc3bac9b-304c-44da-b8ca-d419b3e37f3f" />
+
 
 
 
@@ -70,6 +76,9 @@ functions.
 ### Bonus:
 * Allow users to manually enter a skip interval instead of using the roll number sum.
 
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/ab2a4d22-cfe6-44c7-a6f4-a7fd32d53bf3" />
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/c71eb436-6380-46c0-b481-54e2db3df1ba" />
+
 
 
 
@@ -93,6 +102,8 @@ Develop a bank account simulation where the account number and initial deposit a
 ### Bonus:
 * Provide an option to download transaction history as a .txt file.
 
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/f3a2923b-0841-475c-ae2e-d8efe81a8f09" />
+<img width="1436" alt="image" src="https://github.com/user-attachments/assets/71bfb52b-40a8-45e6-ab67-6a7c9764ae90" />
 
 
 
@@ -117,3 +128,7 @@ product.
 ### Bonus:
 * Allow students to enter an additional promo code for extra discounts.
 * Increase max discounts to 60% after 2 purchases.
+
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/41860e3e-8f64-4835-b6e4-f1d69e5e5e06" />
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/2e283d47-feff-44a2-9cb4-2e4dee08ae4d" />
+
