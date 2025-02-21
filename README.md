@@ -132,3 +132,17 @@ product.
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/41860e3e-8f64-4835-b6e4-f1d69e5e5e06" />
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/2e283d47-feff-44a2-9cb4-2e4dee08ae4d" />
 
+
+
+
+# Project Management:
+<img width="674" alt="image" src="https://github.com/user-attachments/assets/ba8ddb65-58d7-4a48-958e-3011a08548ac" />
+
+
+# Form Validation and data LocalStorage
+<img width="541" alt="image" src="https://github.com/user-attachments/assets/314b0b20-2520-452b-be62-539283961c0a" />
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/06131cbe-d213-43a2-a348-3a37d649a902" />
+
+
+
+
